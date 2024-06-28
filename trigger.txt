@@ -1,1 +1,8 @@
 mtphotos/mt-photos:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos:latest
+adguard/adguardhome:latest registry.cn-hangzhou.aliyuncs.com/niandocker/adguardhome:latest
+vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/niandocker/server:latest
+dreamacro/clash:latest registry.cn-hangzhou.aliyuncs.com/niandocker/clash:latest
+linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplicati:latest
+gdy666/lucky:latest registry.cn-hangzhou.aliyuncs.com/niandocker/lucky:latest
+mtphotos/mt-photos-ai:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos-ai:latest
+deasmi/unraid-tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/unraid-tailscale:latest
