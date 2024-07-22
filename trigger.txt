@@ -8,3 +8,4 @@ mtphotos/mt-photos-ai:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-pho
 deasmi/unraid-tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/unraid-tailscale:latest
 linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplicati:latest
 mtphotos/mt-photos-deepface:noavx-latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos-deepface:noavx-latest
+tailscale/tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/tailscale:latest
