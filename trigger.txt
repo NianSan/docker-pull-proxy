@@ -1,4 +1,4 @@
-bestoray/pgyvpn:latest registry.cn-hangzhou.aliyuncs.com/niandocker/pgyvpn:latest
+easytier/easytier:latest registry.cn-hangzhou.aliyuncs.com/niandocker/easytier:latest
 mtphotos/mt-photos:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos:latest
 adguard/adguardhome:latest registry.cn-hangzhou.aliyuncs.com/niandocker/adguardhome:latest
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/niandocker/server:latest
