@@ -1,3 +1,4 @@
+bestoray/pgyvpn:latest registry.cn-hangzhou.aliyuncs.com/niandocker/pgyvpn:latest
 mtphotos/mt-photos:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos:latest
 adguard/adguardhome:latest registry.cn-hangzhou.aliyuncs.com/niandocker/adguardhome:latest
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/niandocker/server:latest
@@ -9,4 +10,3 @@ deasmi/unraid-tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/unra
 linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplicati:latest
 mtphotos/mt-photos-deepface:noavx-latest registry.cn-hangzhou.aliyuncs.com/niandocker/mt-photos-deepface:noavx-latest
 tailscale/tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/tailscale:latest
-bestoray/pgyserver:latest registry.cn-hangzhou.aliyuncs.com/niandocker/pgyserver:latest
