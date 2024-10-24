@@ -6,4 +6,3 @@ linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplic
 gdy666/lucky:latest registry.cn-hangzhou.aliyuncs.com/niandocker/lucky:latest
 deasmi/unraid-tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/unraid-tailscale:latest
 linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplicati:latest
-tailscale/tailscale:latest registry.cn-hangzhou.aliyuncs.com/niandocker/tailscale:latest
