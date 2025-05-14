@@ -1,2 +1,2 @@
-adguard/adguardhome:latest registry.cn-hangzhou.aliyuncs.com/niandocker/adguardhome:latest
+metacubex/mihomo:latest registry.cn-hangzhou.aliyuncs.com/niandocker/mihomo:latest
 linuxserver/duplicati:latest registry.cn-hangzhou.aliyuncs.com/niandocker/duplicati:latest
